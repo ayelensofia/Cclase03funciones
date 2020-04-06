@@ -3,7 +3,7 @@
 # Cclase03funciones
 Programación en C ,Clase 03  funciones
 
-  -1 crear una carpeta
+  -1 crear una carpeta e ingresar a la carpeta
   
   -2 clonar el repositorio propio en esa carpeta 
 
@@ -28,9 +28,9 @@ Programación en C ,Clase 03  funciones
 
 
 
-Resumen 
+#Resumen 
 
- clonar : git clone mi-repo
+ Clonar : git clone mi-repo
 
 
  iterativamente
@@ -42,6 +42,6 @@ Resumen
  	2-git commit -m "el mensaje " (  toma instantanea del archivo/s )
 
 
-para subir :
+#Para subir :
  	
  	3-git push 
